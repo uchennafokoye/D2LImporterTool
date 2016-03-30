@@ -1,0 +1,862 @@
+CHAPTER 4 MULTIPLE CHOICE—Conceptual
+
+21. The major elements of the income statement are
+a. revenue, cost of goods sold, selling expenses, and general expense.
+b. operating section, non-operating section, discontinued operations, extraordinary items, and cumulative effect.
+c. revenues, expenses, gains, and losses.
+d. revenues, irregular items, and general expenses.
+
+22. Which of the following is true about the information provided in the income statement?
+a. It helps in evaluating the past performance of the enterprise.
+b. It provides a basis for predicting future performance.
+c. It helps assess the risk or uncertainty of achieving future cash flows.
+d. All of these answer choices are correct.
+
+23. Which of the following is false about an income statement?
+a. Items that cannot be measured reliably are not reported in the income statement.
+b. It is used to measure the solvency of a company.
+c. Income measurement involves judgment.
+d. Income numbers are affected by the accounting methods employed.
+
+24. Which of the following would represent the least likely use of an income statement prepared for a business enterprise?
+a. Use by customers to determine a company's ability to provide needed goods and services.
+b. Use by labor unions to examine earnings closely as a basis for salary discussions.
+c. Use by government agencies to formulate tax and economic policy.
+d. Use by investors interested in the financial position of the entity.
+
+25. The income statement reveals
+a. resources and equities of a firm at a point in time.
+b. resources and equities of a firm for a period of time.
+c. net earnings (net income) of a firm at a point in time.
+d. net earnings (net income) of a firm for a period of time.
+
+26. The income statement provides investors and creditors with information to predict all of the following except the:
+a. amount of future cash flows.
+b. sources of future cash flows.
+c. timing of future cash flows.
+d. uncertainty of future cash flows.
+
+27. Which of the following is an example of managing earnings down?
+a. Changing estimated bad debts from 3 percent to 2.5 percent of sales.
+b. Revising the estimated life of equipment from 10 years to 8 years.
+c. Not writing off obsolete inventory.
+d. Reducing research and development expenditures.
+
+28. Which of the following is an example of managing earnings up?
+a. Decreasing estimated salvage value of equipment.
+b. Writing off obsolete inventory.
+c. Underestimating warranty claims.
+d. Accruing a contingent liability for an ongoing lawsuit.
+
+29. What might a manager do during the last quarter of a fiscal year if she wanted to improve current annual net income?
+a. Increase research and development activities.
+b. Relax credit policies for customers.
+c. Delay shipments to customers until after the end of the fiscal year.
+d. Delay purchases from suppliers until after the end of the fiscal year.
+
+30. What might a manager do during the last quarter of a fiscal year if she wanted to decrease current annual net income?
+a. Delay shipments and sales to customers until after the end of the fiscal year.
+b. Relax credit policies for customers.
+c. Pay suppliers all amounts owed.
+d. Delay purchases from suppliers until after the end of the fiscal year.
+
+31. Which of the following is an advantage of the single-step income statement over the multiple-step income statement?
+a. It reports gross profit for the year.
+b. Expenses are classified by function.
+c. It matches costs and expenses with related revenues.
+d. It does not imply that one type of revenue or expense has priority over another.
+
+32. The single-step income statement emphasizes
+a. the gross profit figure.
+b. total revenues and total expenses.
+c. operating and non-operating expenses.
+d. the various components of income from continuing operations.
+
+33. Which of the following is an acceptable method of presenting the income statement?
+a. A single-step income statement
+b. A multiple-step income statement
+c. A consolidated statement of income
+d. All of these answer choices are correct.
+
+34. Which of the following is not a generally practiced method of presenting the income statement?
+a. Including prior period adjustments in determining net income
+b. The single-step income statement
+c. The consolidated statement of income
+d. Including gains and losses from discontinued operations of a component of a business in determining net income
+
+35. The occurrence which most likely would have no effect on 2014 net income (assuming that all amounts involved are material) is the
+a. sale in 2014 of an office building contributed by a stockholder in 1983.
+b. collection in 2014 of a receivable from a customer whose account was written off in 2013 by a charge to the allowance account.
+c. settlement based on litigation in 2014 of previously unrecognized damages from a serious accident that occurred in 2012.
+d. worthlessness determined in 2014 of stock purchased on a speculative basis in 2010.
+
+36. The occurrence that most likely would have no effect on 2014 net income is the
+a. sale in 2014 of an office building contributed by a stockholder in 1961.
+b. collection in 2014 of a dividend from an investment.
+c. correction of an error in the financial statements of a prior period discovered subsequent to their issuance.
+d. stock purchased in 1996 deemed worthless in 2014.
+
+37. Which of the following is not a selling expense?
+a. Advertising expense
+b. Office salaries expense
+c. Freight-out
+d. Store supplies consumed
+
+38. The accountant for the Lintz Sales Company is preparing the income statement for 2014 and the balance sheet at December 31, 2014. The January 1, 2014 merchandise inventory balance will appear
+a. only as an asset on the balance sheet.
+b. only in the cost of goods sold section of the income statement.
+c. as a deduction in the cost of goods sold section of the income statement and as a current asset on the balance sheet.
+d. as an addition in the cost of goods sold section of the income statement and as a current asset on the balance sheet.
+
+39. In order to be classified as an extraordinary item in the income statement, an event or transaction should be
+a. unusual in nature, infrequent, and material in amount.
+b. unusual in nature and infrequent, but it need not be material.
+c. infrequent and material in amount, but it need not be unusual in nature.
+d. unusual in nature and material, but it need not be infrequent.
+
+40. Which of the following is true of accounting for changes in estimates?
+a. A company recognizes a change in estimate by making a retrospective adjustment to the financial statements
+b. A company accounts for changes in estimates only in the period of change, even though it affects the future periods
+c. Changes in estimates are not carried back to adjust prior years
+d. Changes in estimates are considered as errors or extraordinary items
+
+41. Which of these is generally an example of an extraordinary item?
+a. Loss incurred because of a strike by employees.
+b. Write-off of deferred marketing costs believed to have no future benefit.
+c. Gain resulting from the devaluation of the U.S. dollar.
+d. Gain resulting from the state exercising its right of eminent domain on a piece of land used as a parking lot.
+
+42. Under which of the following conditions would material flood damage be considered an extraordinary item for financial reporting purposes?
+a. Only if floods in the geographical area are unusual in nature and occur infrequently.
+b. Only if the flood damage is material in amount and could have been reduced by prudent management.
+c. Under any circumstances as an extraordinary item.
+d. Flood damage should never be classified as an extraordinary item.
+
+43. An item that should be classified as an extraordinary item is
+a. write-off of goodwill.
+b. gains from transactions involving foreign currencies.
+c. losses from moving a plant to another city.
+d. gains from a company selling the only investment it has ever owned.
+
+44. How should an unusual event not meeting the criteria for an extraordinary item be disclosed in the financial statements?
+a. Shown as a separate item in operating revenues or expenses if material and combined with other items if not material in amount.
+b. Shown in operating revenues or expenses if material but not shown as a separate item.
+c. Shown net of income tax after ordinary net earnings but before extraordinary items.
+d. Shown net of income tax after extraordinary items but before net earnings.
+
+45. A change in accounting principle requires that the cumulative effect of the change for prior periods be shown as an adjustment to:
+a. beginning retained earnings of the earliest period presented.
+b. net income of the period in which the change occurred.
+c. comprehensive income for the earliest period presented.
+d. stockholders’ equity of the period in which the change occurred.
+
+46. Which of the following is never classified as an extraordinary item?
+a. Losses from a major casualty.
+b. Losses from an expropriation of assets.
+c. Gain on a sale of the only security investment a company has ever owned.
+d. Losses from exchange or translation of foreign currencies.
+
+47. Which of the following is a required disclosure in the income statement when reporting the disposal of a component of the business?
+a. The gain or loss on disposal should be reported as an extraordinary item.
+b. Results of operations of a discontinued component should be disclosed immediately below extraordinary items.
+c. Earnings per share from continuing operations, discontinued operations, and net income should be disclosed on the face of the income statement.
+d. The gain or loss on disposal should not be segregated, but should be reported together with the results of continuing operations.
+
+48. When a company discontinues an operation and disposes of the discontinued operation (component), the transaction should be included in the income statement as a gain or loss on disposal reported as
+a. a prior period adjustment.
+b. an extraordinary item.
+c. an amount after continuing operations but before extraordinary items.
+d. a bulk sale of plant assets included in income from continuing operations.
+
+49. A material item which is unusual in nature or infrequent in occurrence, but not both should be shown in the income statement
+Net of Tax, Disclosed Separately
+a. No, No
+b. Yes, Yes
+c. No, Yes
+d. Yes, No
+
+50. Income taxes are allocated to
+a. extraordinary items.
+b. discontinued operations.
+c. prior period adjustments.
+d. all of these answer choices are correct.
+
+51. Which of the following is true about intra-period tax allocation?
+a. It arises because certain revenue and expense items appear in the income statement either before or after they are included in the tax return.
+b. It is required for extraordinary items and cumulative effect of accounting changes but not for prior period adjustments.
+c. Its purpose is to allocate income tax expense evenly over a number of accounting periods.
+d. Its purpose is to relate the income tax expense to the items which affect the amount of tax.
+
+52. Companies use intra-period tax allocation for all of the following items except
+a. discontinued operations.
+b. extraordinary items.
+c. changes in accounting estimates.
+d. income from continuing operations.
+
+53. Which of the following items would be reported net of tax on the face of the income statement?
+a. Prior period adjustment
+b. Unusual gain
+c. Change in realizability of receivables
+d. Discontinued operations
+
+54. Which of the following items would be reported at its gross amount on the face of the income statement?
+a. Extraordinary loss
+b. Prior period adjustment
+c. Cumulative effect of a change in an accounting principle
+d. Unusual gain
+
+55. Where must earnings per share be disclosed in the financial statements to satisfy generally accepted accounting principles?
+a. On the face of the statement of retained earnings (or, statement of stockholders' equity.)
+b. In the footnotes to the financial statements.
+c. On the face of the income statement.
+d. On the face of the balance sheet.
+
+56. In calculating earnings per share, companies deduct preferred dividends from net income if: 
+a. they are noncumulative though not declared.
+b. the dividends are declared.
+c. they are convertible preferred shares.
+d. they are callable preferred shares.
+
+57. Which of the following earnings per share figures must be disclosed on the face of the income statement?
+a. EPS for income before taxes.
+b. The effect on EPS from unusual items.
+c. EPS for gross profit.
+d. EPS for income from continuing operations.
+
+58. Earnings per share should always be shown separately for
+a. net income and gross margin.
+b. net income and pretax income.
+c. income before extraordinary items.
+d. extraordinary items and prior period adjustments.
+
+59. A correction of an error in prior periods' income will be reported
+In the income statement, Net of tax
+a. Yes, Yes
+b. No, No
+c. Yes, No
+d. No, Yes
+
+60. Which of the following items will not appear in the retained earnings statement?
+a. Net loss
+b. Prior period adjustment
+c. Discontinued operations
+d. Dividends
+
+61. Which one of the following types of losses is excluded from the determination of net income in income statements?
+a. Material losses resulting from transactions in the company's investments account.
+b. Material losses resulting from unusual sales of assets not acquired for resale.
+c. Material losses resulting from the write-off of intangibles.
+d. Material losses resulting from correction of errors related to prior periods.
+
+62. Watts Corporation made a very large arithmetical error in the preparation of its year-end financial statements by improper placement of a decimal point in the calculation of depreciation. The error caused the net income to be reported at almost double the proper amount. Correction of the error when discovered in the next year should be treated as
+a. an increase in depreciation expense for the year in which the error is discovered.
+b. a component of income for the year in which the error is discovered, but separately listed on the income statement and fully explained in a note to the financial statements.
+c. an extraordinary item for the year in which the error was made.
+d. a prior period adjustment.
+
+63. A company is not required to report a per share amount on the face of the income statement for which one of the following items?
+a. Net income
+b. Prior period adjustment
+c. Extraordinary item
+d. Discontinued operations
+
+64. Earnings per share data are required on the face of the
+a. statement of retained earnings
+b. statement of stockholders' equity
+c. income statement
+d. balance sheet
+
+65. Which of the following is included in comprehensive income?
+a. Investments by owners.
+b. Unrealized gains on available-for-sale securities.
+c. Distributions to owners.
+d. Changes in accounting principles.
+
+66. Which of the following is not an acceptable way of displaying the components of other comprehensive income?
+a. Combined statement of retained earnings
+b. One statement approach
+c. Two statement approach
+d. All of these are acceptable ways
+
+67. Gains and losses identified as other comprehensive income have the same status as traditional gains and losses under
+a. both the one statement and two statement approaches.
+b. neither the one statement or two statement approaches. 
+c. the one statement approach.
+d. the two statement approach.
+
+68. Comprehensive income includes all of the following except
+a. dividend revenue.
+b. losses on disposal of assets.
+c. investments by owners.
+d. unrealized holding gains.
+
+69. A statement of stockholders’ equity includes a column for each of the following except
+a. accumulated other comprehensive income.
+b. common stock.
+c. net income.
+d. retained earnings.
+
+CHAPTER 4 CONT’D
+MULTIPLE CHOICE - COMPUTATIONAL
+70. Ortiz Co. had the following account balances:
+Sales revenue: $220,000
+Cost of goods sold: 110,000
+Salaries and wages expense: 15,000
+Depreciation expense: 30,000
+Dividend revenue: 6,000
+Utilities expense: 12,000
+Rent revenue: 30,000
+Interest expense: 18,000
+Sales returns and allow. 16,500
+Advertising expense: 19,500
+What would Ortiz report as total revenues in a single-step income statement?
+a. $239,500
+b. $  35,000
+c. $236,000
+d. $220,000
+
+71. Ortiz Co. had the following account balances:
+Sales revenue: $220,000
+Cost of goods sold: 110,000
+Salaries and wages expense: 15,000
+Depreciation expense: 30,000
+Dividend revenue: 6,000
+Utilities expense: 12,000
+Rent revenue: :30,000
+Interest expense: 18,000
+Sales returns and allow: 16,500
+Advertising expense: 19,500
+What would Ortiz report as total expenses in a single-step income statement?
+a. $210,500
+b. $221,000
+c. $204,500
+d. $  94,500
+
+72. For Mortenson Company, the following information is available:
+Cost of goods sold: $130,000
+Dividend revenue: 5,000
+Income tax expense: 12,000
+Operating expense: 46,000
+Sales revenue: 200,000
+In Mortenson’s single-step income statement, gross profit
+a. should not be reported. 
+b. should be reported at $17,000.
+c. should be reported at $70,000.
+d. should be reported at $75,000.
+
+73. For Mortenson Company, the following information is available:
+Cost of goods sold: $130,000
+Dividend revenue: 5,000
+Income tax expense: 12,000
+Operating expense: 46,000
+Sales revenue: 200,000
+In Mortenson’s multiple-step income statement, gross profit
+a. should not be reported 
+b. should be reported at $17,000.
+c. should be reported at $70,000.
+d. should be reported at $75,000.
+
+74. The following information was extracted from the 2014 financial statements of Max Company:
+Income from continuing operations before income tax: $470,000
+Selling and administrative expense: 320,000
+Income from continuing operation: 329,000
+Gross profit900,000
+Income before extraordinary item290,000
+The amount reported for other expenses and losses is
+a. $141,000 
+b. $39,000.
+c. $110,000.
+d. $150,000.
+
+75. Gross billings for merchandise sold by Lang Company to its customers last year amounted to $11,720,000; sales returns and allowances were $370,000, sales discounts were $175,000, and freight-out was $140,000. Net sales last year for Lang Company were
+a. $11,720,000.
+b. $11,350,000.
+c. $11,175,000.
+d. $11,035,000.
+
+76. If plant assets of a manufacturing company are sold at a gain of $1,500,000 less related taxes of $450,000, and the gain is not considered unusual or infrequent, the income statement for the period would disclose these effects as
+a. a gain of $1,500,000 and an increase in income tax expense of $450,000.
+b. operating income net of applicable taxes, $1,050,000.
+c. a prior period adjustment net of applicable taxes, $1,050,000.
+d. an extraordinary item net of applicable taxes, $1,050,000.
+
+77. Manning Company has the following items: write-down of inventories, $360,000; loss on disposal of Sports Division, $555,000; and loss due to strike, $359,000. Ignoring income taxes, what amount should Manning Company report as extraordinary losses?
+a. $ -0-.
+b. $555,000.
+c. $719,000.
+d. $914,000.
+
+78. Garwood Company has the following items: write-down of inventories, $360,000; loss on disposal of Sports Division, $555,000; and loss due to an expropriation, $359,000. Ignoring income taxes, what amount should Garwood Company report as extraordinary losses?
+a. $359,000
+b. $555,000.
+c. $719,000.
+d. $914,000.
+
+79. An income statement shows “income before income taxes and extraordinary items” in the amount of $3,425,000. The income taxes payable for the year are $1,800,000, including $600,000 that is applicable to an extraordinary gain. Thus, the “income before extraordinary items” is
+a. $2,225,000.
+b. $1,025,000.
+c. $2,325,000.
+d. $1,125,000.
+
+80. Dole Company, with an applicable income tax rate of 30%, reported net income of $350,000. Included in income for the period was an extraordinary loss from flood damage of $80,000 before deducting the related tax effect. The company's income before income taxes and extraordinary items was
+a. $430,000.
+b. $500,000.
+c. $580,000.
+d. $406,000.
+
+81. A review of the December 31, 2014, financial statements of Somer Corporation revealed that under the caption "extraordinary losses," Somer reported a total of $1,130,000. Further analysis revealed that the $1,130,000 in losses was comprised of the following items:
+(1) Somer recorded a loss of $300,000 incurred in the abandonment of equipment formerly used in the business.
+(2) In an unusual and infrequent occurrence, a loss of $600,000 was sustained as a result of hurricane damage to a warehouse.
+(3) During 2014, several factories were shut down during a major strike by employees, resulting in a loss of $170,000.
+(4) Uncollectible accounts receivable of $60,000 were written off as uncollectible.
+Ignoring income taxes, what amount of loss should Somer report as extraordinary on its 2014 income statement?
+a. $300,000.
+b. $600,000.
+c. $900,000.
+d. $1,130,000.
+
+82. At Ruth Company, events and transactions during 2014 included the following. The tax rate for all items is 30%.
+(1)Depreciation for 2012 was found to be understated by $90,000.
+(2)A strike by the employees of a supplier resulted in a loss of $75,000.
+(3)The inventory at December 31, 2012 was overstated by $120,000.
+(4)A flood destroyed a building that had a book value of $1,500,000. Floods are very uncommon in that area.
+The effect of these events and transactions on 2014 income from continuing operations net of tax would be
+a. ($52,500).
+b. ($115,500).
+c. ($199,500).
+d. ($1,249,500).
+
+83. At Ruth Company, events and transactions during 2014 included the following. The tax rate for all items is 30%.
+(1) Depreciation for 2012 was found to be understated by $90,000.
+(2) A strike by the employees of a supplier resulted in a loss of $75,000.
+(3) The inventory at December 31, 2012 was overstated by $120,000.
+(4) A flood destroyed a building that had a book value of $1,500,000. Floods are very uncommon in that area.
+The effect of these events and transactions on 2014 net income net of tax would be
+a. ($52,500).
+b. ($1,102,500).
+c. ($1,165,500).
+d. ($1,249,500).
+
+84. During 2014, Lopez Corporation disposed of Pine Division, a major component of its business. Lopez realized a gain of $2,400,000, net of taxes, on the sale of Pine's assets. Pine's operating losses, net of taxes, were $2,800,000 in 2014. How should these facts be reported in Lopez's income statement for 2014?
+Total Amount to be Included in
+Income from Continuing Operations, Results of Discontinued Operations
+a. $2,800,000 loss, $2,400,000 gain
+b. 400,000 loss, 0
+c. 0, 400,000 loss
+d. 2,400,000 gain, 2,800,000 loss
+
+85. Sandstrom Corporation has an extraordinary loss of $200,000, an unusual gain of $140,000, and a tax rate of 40%. At what amount should Sandstrom report each item?
+Extraordinary loss, Unusual gain
+a. $(200,000), $140,000
+b. (200,000), 84,000
+c. (120,000), 140,000
+d. (120,000), 84,000
+
+86. Prophet Corporation has an extraordinary loss of $800,000, an unusual gain of $560,000, and a tax rate of 40%. At what amount should Prophet report each item?
+Extraordinary loss, Unusual gain
+a. $(800,000), $560,000
+b. (800,000), 336,000
+c. (480,000), 560,000
+d. (480,000), 336,000
+
+87. Arreaga Corp. has a tax rate of 40 percent and income before non-operating items of $928,000. It also has the following items (gross amounts).
+Unusual loss: $148,000
+Extraordinary loss: 404,000
+Gain on disposal of equipment: 32,000
+Change in accounting principle increasing prior year's income: 212,000
+What is the amount of income tax expense Arreaga would report on its income statement?
+a. $371,200
+b. $324,800
+c. $396,800
+d. $248,000
+
+88. Palomo Corp has a tax rate of 30 percent and income before non-operating items of $1,071,000. It also has the following items (gross amounts).
+Unusual gain: $69,000
+Loss from discontinued operation: 549,000
+Dividend revenue: 18,000
+Income increasing prior period adjustment: 222,000
+What is the amount of income tax expense Palomo would report on its income statement?
+a. $347,400
+b. $182,700
+c. $249,300
+d. $326,700
+
+89. Lantos Company had a 40 percent tax rate. Given the following pre-tax amounts, what would be the income tax expense reported on the face of the income statement?
+Sales revenue: $ 500,000
+Cost of goods sold: 300,000
+Salaries and wages expense: 40,000
+Depreciation expense: 55,000
+Dividend revenue: 45,000
+Utilities expense: 5,000
+Extraordinary loss: 50,000
+Interest expense: 10,000
+a. $54,000
+b. $34,000
+c. $36,000
+d. $16,000
+
+90. In 2014, Esther Corporation reported net income of $600,000. It declared and paid preferred stock dividends of $150,000 and common stock dividends of $60,000. During 2014, Esther had a weighted average of 250,000 common shares outstanding. Compute Esther's 2014 earnings per share.
+a. $1.56
+b. $1.80
+c. $2.40
+d. $3.00
+
+91. In 2014, Linz Corporation reported an extraordinary loss of $1,000,000, net of tax. It declared and paid preferred stock dividends of $100,000 and common stock dividends of $300,000. During 2014, Linz had a weighted average of 500,000 common shares outstanding. As a result of the extraordinary loss, net of tax, the earnings per share would decrease by
+a. $1.20
+b. $1.40
+c. $1.80
+d. $2.00
+
+92. In 2014, Benfer Corporation reported net income of $210,000. It declared and paid common stock dividends of $24,000 and had a weighted average of 70,000 common shares outstanding. Compute the earnings per share to the nearest cent.
+a. $2.66
+b. $2.10
+c. $2.70
+d. $3.00
+
+93. Benedict Corporation reports the following information:
+Net income: $750,000
+Dividends on common stock: $210,000
+Dividends on preferred stock: $90,000
+Weighted average common shares outstanding: 150,000
+Benedict should report earnings per share of
+a. $3.00.
+b. $3.60
+c. $4.40.
+d. $5.00.
+
+94. Norling Corporation reports the following information:
+Net income: $750,000
+Dividends on common stock: $210,000
+Dividends on preferred stock: $90,000
+Weighted average common shares outstanding: 250,000
+Norling should report earnings per share of
+a. $1.80.
+b. $2.16
+c. $2.64.
+d. $3.00.
+
+95. Moorman Corporation reports the following information:
+Correction of understatement of depreciation expense in prior years, net of tax: $860,000
+Dividends declared: 640,000
+Net income: 2,000,000
+Retained earnings, 1/1/14, as reported: 4,000,000
+Moorman should report retained earnings, 1/1/14, as adjusted at
+a. $3,140,000.
+b. $4,000,000.
+c. $4,860,000.
+d. $6,220,000.
+
+96. Moorman Corporation reports the following information:
+Correction of understatement of depreciation expense in prior years, net of tax :$860,000
+Dividends declared: 640,000
+Net income: 2,000,000
+Retained earnings, 1/1/14, as reported: 4,000,000
+Moorman should report retained earnings, 12/31/14, as adjusted at
+a. $3,140,000.
+b. $4,500,000.
+c. $5,360,000.
+d. $6,220,000.
+
+97. Leonard Corporation reports the following information:
+Correction of overstatement of depreciation expense in prior years, net of tax: $430,000
+Dividends declared: 320,000
+Net income: 1,000,000
+Retained earnings, 1/1/14, as reported: 4,000,000
+Leonard should report retained earnings, 1/1/14, as adjusted at
+a. $3,570,000.
+b. $4,000,000.
+c. $4,430,000.
+d. $5,110,000.
+
+98. Leonard Corporation reports the following information:
+Correction of overstatement of depreciation expense in prior years, net of tax: $430,000
+Dividends declared: 320,000
+Net income: 1,000,000
+Retained earnings, 1/1/14, as reported: 4,000,000
+Leonard should report retained earnings, 12/31/14, at
+a. $3,570,000.
+b. $4,250,000.
+c. $4,680,000.
+d. $5,110,000.
+
+99. The following information was extracted from the accounts of Essex Corporation at December 31, 2014:
+[TABLE HERE]
+                                                                       CR(DR)
+Total reported income since incorporation: $3,200,000
+Total cash dividends paid: (1,600,000)
+Unrealized holding loss on available-for-sale securities: (240,000)
+Total stock dividends distributed: (400,000)
+Prior period adjustment, recorded: January 1, 2014, 150,000
+What should be the balance of retained earnings at December 31, 2014?
+a. $1,110,000.
+b. $1,200,000.
+c. $1,960,000.
+d. $1,350,000.
+
+100. Madsen Company reported the following information for 2014:
+Sales revenue: $1,530,000
+Cost of goods sold: 1,050,000
+Operating expenses: 165,000
+Unrealized holding gain on available-for-sale securities: 90,000
+Cash dividends received on the securities: 6,000
+For 2014, Madsen would report other comprehensive income of
+a. $321,000.
+b. $315,000.
+c. $96,000.
+d. $90,000.
+
+101. Korte Company reported the following information for 2014:
+Sales revenue: $1,500,000
+Cost of goods sold: 1,050,000
+Operating expenses: 165,000
+Unrealized holding gain on available-for-sale securities: 50,000
+Cash dividends received on the securities: 6,000
+For 2014, Korte would report comprehensive income of
+a. $341,000.
+b. $335,000.
+c. $291,000.
+d. $50,000.
+
+102. For the year ended December 31, 2014, Transformers Inc. reported the following:
+Net income: $180,000
+Preferred dividends declared: 30,000
+Common dividend declared: 6,000
+Unrealized holding loss, net of tax: 3,000
+Retained earning: 240,000
+Common stock: 120,000
+Accumulated Other Comprehensive Income, Beginning Balance: 15,000
+What would Transformers report as its ending balance of Accumulated Other 
+Comprehensive Income?
+a. $18,000
+b. $15,000
+c. $12,000
+d. $3,000
+
+103. For the year ended December 31, 2014, Transformers Inc. reported the following:
+Net income: $180,000
+Preferred dividends declared: 30,000
+Common dividend declared: 6,000
+Unrealized holding loss, net of tax: 3,000
+Retained earnings, beginning balance: 240,000
+Common stock: 120,000
+Accumulated Other Comprehensive Income, Beginning Balance: 15,000
+What would Transformers report as the ending balance of Retained Earnings?
+a. $417,000
+b. $399,000
+c. $384,000
+d. $381,000
+
+104. For the year ended December 31, 2014, Transformers Inc. reported the following:
+Net income: $180,000
+Preferred dividends declared: 30,000
+Common dividend declared: 6,000
+Unrealized holding loss, net of tax: 3,000
+Retained earnings, beginning balance: 240,000
+Common stock: 120,000
+Accumulated Other Comprehensive Income, Beginning Balance: 15,000
+What would Transformers report as total stockholders' equity?
+a. $516,000
+b. $504,000
+c. $384,000
+d. $360,000
+
+CHAPTER 4 CONT’D 
+MULTIPLE CHOICE - CPA ADAPTED
+105. Perry Corp. reports operating expenses in two categories: (1) selling and (2) general and administrative. The adjusted trial balance at December 31, 2014, included the following expense accounts:
+Accounting and legal fees: $280,000
+Advertising: 240,000
+Freight-out: 150,000
+Interest: 120,000
+Loss on sale of long-term investments: 60,000
+Officers' salarie: 360,000
+Rent for office space: 360,000
+Sales salaries and commission: 270,000
+One-half of the rented premises is occupied by the sales department.
+How much of the expenses listed above should be included in Perry's selling expenses for 2014?
+a. $510,000.
+b. $660,000.
+c. $690,000.
+d. $840,000.
+
+106. Perry Corp. reports operating expenses in two categories: (1) selling and (2) general and administrative. The adjusted trial balance at December 31, 2014, included the following expense accounts:
+Accounting and legal fees: $280,000
+Advertising: 240,000
+Freight-out: 150,000
+Interest: 120,000
+Loss on sale of long-term investments: 60,000
+Officers' salarie: 360,000
+Rent for office space: 360,000
+Sales salaries and commission: 270,000
+One-half of the rented premises is occupied by the sales department.
+How much of the expenses listed above should be included in Perry's general and administrative expenses for 2014?
+a. $820,000.
+b. $880,000.
+c. $940,000.
+d. $1,000,000.
+
+107. Didde Corp. reports operating expenses in two categories: (1) selling and (2) general and administrative. The adjusted trial balance at December 31, 2014 included the following expense and loss accounts:
+Accounting and legal fees: $210,000
+Advertising: 290,000
+Freight-out: 120,000
+Interest: 105,000
+Loss on sale of long-term investment: 45,000
+Officers' salarie: 335,000
+Rent for office space: 330,000
+Sales salaries and commission: 255,000
+One-half of the rented premises is occupied by the sales department. Didde's total selling expenses for 2014 are
+a. $830,000.
+b. $710,000.
+c. $665,000.
+d. $575,000.
+
+108. The following items were among those that were reported on Dye Co.'s income statement for the year ended December 31, 2014:
+Legal and audit fees: $520,000
+Rent for office space: 720,000
+Interest on inventory floor plan: 840,000
+Loss on abandoned equipment used in operations: 140,000
+The office space is used equally by Dye's sales and accounting departments. What amount of the above-listed items should be classified as general and administrative expenses in Dye's multiple-step income statement?
+a. $880,000.
+b. $1,020,000.
+c. $1,240,000.
+d. $1,720,000.
+
+109. Logan Corp.'s trial balance of income statement accounts for the year ended December 31, 2014 included the following:
+[TABLE HERE]
+                                                                   Debit                      Credit
+Sales revenue:                                                                         $280,000
+Cost of goods sold:                                    $150,000
+Administrative expense:                             40,000
+Loss on disposal of equipment:                  18,000
+Sales commission expense:                        16,000
+Interest revenue:                                                                        10,000
+Freight-out:                                                    6,000
+Loss due to earthquake damage:                  24,000
+Bad debt expense:                                         6,000
+Totals:                                                         $260,000                $290,000
+Other information:
+Logan's income tax rate is 30%. Finished goods inventory:
+January 1, 2014: $160,000
+December 31, 2014: 140,000
+On Logan's multiple-step income statement for 2014,
+Cost of goods manufactured is
+a. $176,000.
+b. $170,000.
+c. $136,000.
+d. $130,000.
+
+110. Logan Corp.'s trial balance of income statement accounts for the year ended December 31, 2014 included the following:
+[TABLE HERE]
+    Debit      Credit
+Sales revenue $280,000
+Cost of goods sold $150,000
+Administrative expense 40,000
+Loss on disposal of equipment 18,000
+Sales commission expense 16,000
+Interest revenue 10,000
+Freight-out 6,000
+Loss due to earthquake damage 24,000
+Bad debt expense      6,000
+Totals $260,000 $290,000
+Other information:
+Logan's income tax rate is 30%. Finished goods inventory:
+January 1, 2014 $160,000
+December 31, 2014 140,000
+On Logan's multiple-step income statement for 2014,
+Income before extraordinary item is
+a. $88,000.
+b. $54,000.
+c. $37,800.
+d. $21,000.
+
+ 
+111. Logan Corp.'s trial balance of income statement accounts for the year ended December 31, 2014 included the following:
+[TABLE HERE]
+    Debit      Credit
+Sales revenue $280,000
+Cost of goods sold $150,000
+Administrative expense 40,000
+Loss on sale of equipment 18,000
+Commissions to salespersons 16,000
+Interest revenue 10,000
+Freight-out6,000
+Loss due to earthquake damage24,000
+Bad debt expense      6,000
+Totals$260,000$290,000
+
+Other information:
+Logan's income tax rate is 30%. Finished goods inventory:
+January 1, 2014: $160,000
+December 31, 2014: 140,000
+On Logan's multiple-step income statement for 2014,
+Extraordinary loss is
+a. $16,800.
+b. $24,000.
+c. $29,400.
+d. $42,000.
+
+112. Chase Corp. had the following infrequent transactions during 2014:
+A $375,000 gain from selling the only investment Chase has ever owned.
+A $525,000 gain on the sale of equipment.
+A $175,000 loss on the write-down of inventories.
+In its 2014 income statement, what amount should Chase report as total infrequent net gains that are not considered extraordinary?
+a. $200,000.
+b. $350,000.
+c. $725,000.
+d. $900,000.
+
+113. James, Inc. incurred the following infrequent losses during 2014:
+A $210,000 write-down of equipment leased to others.
+A $120,000 adjustment of accruals on long-term contracts.
+A $180,000 write-off of obsolete inventory.
+In its 2014 income statement, what amount should James report as total infrequent losses that are not considered extraordinary?
+a. $510,000.
+b. $390,000.
+c. $330,000.
+d. $300,000.
+
+ 
+114. Which of the following should be reported as a prior period adjustment?
+Change in Estimated Lives of Depreciable Assets, Mistakes in the Application of Accounting Principles
+a. Yes, Yes
+b. No, Yes
+c. Yes, No
+d. No, No
+
+CHAPTER 4 CONT’D
+IFRS Multiple Choice:
+6. The IFRS income statement classification of expenses by nature results in descriptions
+which include all of the following except
+a. salaries
+b. depreciation
+c. distribution
+d. utilities
+
+7. Boston Company owns more than 50 percent of the ordinary shares of Dynamic Company. Assume Boston net income of $225,000 is allocated as $180,000 to Boston and $45,000 to non-controlling interest. In Boston’s consolidated income statement that includes Dynamic, under IFRS, how will the amount of non-controlling interest be reported?
+a. $45,000 will be presented as an item of expense below the net income.
+b. $45,000 will be presented as an item of expense above the net income.
+c. $45,000 will be presented as an allocation to net income below the net income.
+d. $45,000 will not be presented on the face of the income statement.
+
+8. An IFRS statement might include all of the following except
+a. net income or loss
+b. unrealized gains or losses on the revaluation of long-term assets
+c. cumulative effect of a change in accounting principle
+d. extraordinary gain or loss
+
+9. Discontinued operations of a component of a business are classified as a separate item in the income statement:
+a. after “income from continuing operations”.
+b. before “income from continuing operations”.
+c. between income from operations and income before income tax.
+d. immediately after “gross profit”.
+ 
+10. If a company prepares a consolidated income statement, IFRS requires that net income be reported for:
+a. the controlling interest only.
+b. the non-controlling interest only.
+c. both the controlling and the non-controlling interest.
+d. as a single amount only.
+
+11. Which of the following is true of expense classification under IFRS?
+a. The nature-of-expense method identifies the major cost drivers of the company.
+b. The nature-of-expense method does not classify the expenses into various subtotals.
+c. The function-of-expense method is simple to apply because allocations of expense to different functions are not necessary.
+d. IFRS allows only function-of-expense method for expense classification.
